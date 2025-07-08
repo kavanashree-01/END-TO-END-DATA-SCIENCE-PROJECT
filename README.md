@@ -38,3 +38,10 @@ Educational Tool: The notebook serves as a practical example of a complete data 
 API Integration: The Flask API component allows the model to be used in applications or systems requiring real-time traffic predictions.
 
 *OUTPUT* :
+<img width="921" height="458" alt="Image" src="https://github.com/user-attachments/assets/6f4ecec3-deff-4f80-b65d-2a3ad61286ee" />
+
+<img width="880" height="623" alt="Image" src="https://github.com/user-attachments/assets/55437e43-9485-44c5-b2e4-c768be7c6f57" />
+
+<img width="804" height="596" alt="Image" src="https://github.com/user-attachments/assets/6d74b1d9-c476-42b1-9007-8268f475d44c" />
+
+<img width="1013" height="484" alt="Image" src="https://github.com/user-attachments/assets/af094b1e-ceec-4818-8802-f726f79a1f39" />

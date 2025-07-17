@@ -45,3 +45,5 @@ API Integration: The Flask API component allows the model to be used in applicat
 <img width="804" height="596" alt="Image" src="https://github.com/user-attachments/assets/6d74b1d9-c476-42b1-9007-8268f475d44c" />
 
 <img width="1013" height="484" alt="Image" src="https://github.com/user-attachments/assets/af094b1e-ceec-4818-8802-f726f79a1f39" />
+
+<img width="1111" height="791" alt="Image" src="https://github.com/user-attachments/assets/55f2faeb-7b2c-4c2f-96b8-fdf8e8341680" />
